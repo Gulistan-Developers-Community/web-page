@@ -1,1 +1,1 @@
-## WEBSITE => (https://gdc-uz.netlify.app)
+# WEBSITE => https://gdc-uz.netlify.app
